@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+        background: linear-gradient(to right, #cc2b5e, #753a88);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 1em;
+        margin-top: 15%;
+        justify-content: center;
+
+}
+
+img {
+    border: 1px solid black;
+    margin-left: 43%;
+    margin-right: -50%;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    margin: 60px;
+
+}
+.div1{
+    text-align: center;
+    color: #090c0c;
+}
+
+.div2{
+    text-align: center;
+    color: #0a0c0c;
+}
+
+.div3{
+    text-align: center;
+    color: #040505;
+}
+
+.div4{
+     text-align: center;
+     color: #0a0d0c;
+     font-size: 1em;
+}
+
+fieldset{
+    border: 0;
+}
+
+input, select, textarea, button{
+    border-radius: 5px;
+}
